@@ -1,14 +1,4 @@
 #!/usr/bin/env python3
-"""
-gui.py — a tiny file-picker front end for strip_metadata.py.
-
-No web server, no extra dependencies beyond Pillow — just Python's built-in
-tkinter. Pick images (or a whole folder), choose your options, hit the
-button.
-
-Run with:
-    python gui.py
-"""
 
 from __future__ import annotations
 
